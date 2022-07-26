@@ -1,5 +1,5 @@
 ```diff
-@@ Hi, I'm Mary 👩‍💻. @@
+@@ Hallo, I'm Mary! @@
 
 - Living in São Paulo, Brazil.
 ! 15 years old.
@@ -9,7 +9,6 @@
 <div style="display: inline_block"><br>
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
 </div> 
