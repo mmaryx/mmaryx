@@ -1,5 +1,5 @@
 ```diff
-@@ Hallo, I'm Mary! @@
+@@ Hi, I'm Mary! @@
 
 - Living in São Paulo, Brazil.
 ! 15 years old.
