@@ -4,6 +4,8 @@
 - Living in São Paulo, Brazil.
 ! 15 years old.
 + My hobbies are playing and illustrating.
+
+# -novice programmer- #
 ```
 ##
 <div style="display: inline_block"><br>
