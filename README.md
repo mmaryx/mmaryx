@@ -1,9 +1,9 @@
 ```diff
-@@ Hi, I'm Mary! @@
+  Hi, I'm Mary!
 
-- Living in São Paulo, Brazil.
+  Living in São Paulo, Brazil.
 ! 16 years old.
-+ My hobbies are playing and illustrating.
+  My hobbies are playing and illustrating.
 
 # -novice programmer- #
 ```
