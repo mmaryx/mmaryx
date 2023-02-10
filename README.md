@@ -1,8 +1,8 @@
-## Oii, eu sou a Mari!
+## Heyy! I am Mary!
 
-- Trabalho com Ilustração Digital
-- Atualmente estou estudando Desenvolvimento de Sistemas na ETEC
-- ela/dela
+- I work with Digital Illustration
+- At the moment i'm study system development in the ETEC school in Bauru city
+- she / her
 
 ##
 
