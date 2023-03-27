@@ -1,7 +1,7 @@
 ## Heyy! I am Mary!
 
 - I work with Digital Illustration
-- At the moment i'm study system development in the ETEC school in Bauru city
+- At the moment i'm studies system development in the ETEC school in Bauru city
 - she / her
 
 ##
