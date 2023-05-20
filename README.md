@@ -1,7 +1,8 @@
 ## Heyy! I am Mary!
 
 - I work with Digital Illustration
-- I'm study system development at ETEC school in Bauru city
+- I'm studying system development at ETEC Rodrigues de Abreu
+- 
 
 ##
 
