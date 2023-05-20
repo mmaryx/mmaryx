@@ -2,7 +2,6 @@
 
 - I work with Digital Illustration
 - I'm studying system development at ETEC Rodrigues de Abreu
-- 
 
 ##
 
