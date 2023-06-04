@@ -1,7 +1,7 @@
-## Heyy! I am Mary!
+## Oiee! Eu sou a Mari!
 
-- I work with Digital Illustration
-- I'm studying system development at ETEC Rodrigues de Abreu
+- Eu trabalho com ilustração digital
+- Estou estudando Desenvolvimento de sistemas na ETEC Rodrigues de Abreu
 
 ##
 
