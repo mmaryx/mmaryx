@@ -1,7 +1,7 @@
 ## Oiee! Eu sou a Mari!
 
 - Trabalho com ilustração digital
-- Estou estudando Desenvolvimento de sistemas na ETEC Rodrigues de Abreu
+- Estou cursando Desenvolvimento de sistemas na ETEC Rodrigues de Abreu
 
 ##
 
