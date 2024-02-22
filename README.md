@@ -1,4 +1,4 @@
-## Oiee, eu sou a Mari!
+## Oie, eu sou a Mari!
 
 - Estagiária de Service Desk / Qualidade e Segurança 
 - Freelancer de ilustração digital
