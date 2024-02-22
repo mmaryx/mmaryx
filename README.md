@@ -1,7 +1,8 @@
 ## Oiee! Eu sou a Mari!
 
-- Trabalho com ilustração digital
-- Estou cursando Desenvolvimento de sistemas na ETEC Rodrigues de Abreu
+- Estagiária de Service Desk / Qualidade e Segurança 
+- Freelancer de ilustração digital
+- Estudante de Desenvolvimento de sistemas na ETEC Rodrigues de Abreu
 
 ##
 
