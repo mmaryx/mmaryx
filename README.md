@@ -16,8 +16,9 @@
 
 </div>
 
-##
+## 
 
+## Tecnologias
 <div style="display: inline_block"><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50px"/>
@@ -27,9 +28,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="50px"/>
 </div>
 
-##
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   
 ## Estudando
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="50px"/>
