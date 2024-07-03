@@ -1,6 +1,6 @@
 ## Oie, eu sou a Mari!
 
-- Estagiária de Service Desk / Qualidade e Segurança 
+- Estagiária no departamento de Qualidade e Segurança atuando na área de testes 
 - Freelancer de ilustração digital
 - Estudante de Desenvolvimento de sistemas na ETEC Rodrigues de Abreu
 
