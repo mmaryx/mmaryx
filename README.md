@@ -1,9 +1,8 @@
 ## Oie, eu sou a Mari!
 
-- Estagiária no departamento de Qualidade e Segurança atuando na área de desenvolvimento e testes
-- Front-end 
+- Desenvolvedora full stack 
+- Análise e Desenvolvimento de Sistemas na Fatec Bauru 
 - Freelancer de ilustração digital
-- Estudante de Desenvolvimento de sistemas na ETEC Rodrigues de Abreu
 
 ##
 <div align="center">  
