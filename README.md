@@ -1,10 +1,10 @@
 ```
-Mari's Account
+> Mari's Account
 
-Front-end developer
-Systems Analysis and Development at Fatec Bauru > Lv1
-Quality and Security at Scaffold Education
-Digital Illustration Freelancer
+.Front-end developer
+.Systems Analysis and Development at Fatec Bauru ( Lv1 )
+.Quality and Security at Scaffold Education
+.Digital Illustration Freelancer
 ```
 
 ##
