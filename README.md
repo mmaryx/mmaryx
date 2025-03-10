@@ -1,8 +1,9 @@
-## Oie, eu sou a Mari!
+## Mari's Account
 
-- Desenvolvedora full stack 
-- Análise e Desenvolvimento de Sistemas na Fatec Bauru 
-- Freelancer de ilustração digital
+- Front-end developer
+- Systems Analysis and Development at Fatec Bauru > Lv1
+- Quality and Security at Scaffold Education
+- Digital Illustration Freelancer
 
 ##
 <div align="center">  
